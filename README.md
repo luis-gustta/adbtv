@@ -12,7 +12,7 @@ Using thr Best-README-Template
 <br />
 <p align="center">
   <a href="https://github.com/luis-gustta/adbtv/">
-    <img src="images/adbtv21.png" alt="Logo" width="277" height="264">
+    <img src="https://raw.githubusercontent.com/luis-gustta/adbtv/main/images/adbtv21.png" alt="Logo" width="277" height="264">
   </a>
 
 
@@ -22,7 +22,7 @@ Using thr Best-README-Template
     An easy way to control Android (TV) devices remotely using Python
     <br />
     <br />
-    <a href="https://github.com/luis-gustta/adbtv/tree/main/examples">Examples</a>
+    <a href="https://github.com/luis-gustta/adbtv/examples/">Examples</a>
     ·
     <a href="https://github.com/luis-gustta/adbtv/issues">Report Bug</a>
     ·
@@ -172,7 +172,11 @@ Project Link: [https://github.com/luis-gustta/adbtv/](https://github.com/luis-gu
 * [Best-README-Template](https://github.com/othneildrew/Best-README-Template)
 * [ADB](https://developer.android.com/studio/command-line/adb)
 * [Imgbot](https://imgbot.net/docs/)
+* [Choose an Open Source License](https://choosealicense.com)
 * [Img Shields](https://shields.io)
+* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
+* [GitHub Pages](https://pages.github.com)
+* [Animate.css](https://daneden.github.io/animate.css)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
