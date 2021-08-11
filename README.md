@@ -22,7 +22,7 @@ Using thr Best-README-Template
     An easy way to control Android (TV) devices remotely using Python
     <br />
     <br />
-    <a href="https://github.com/luis-gustta/adbtv/examples/">Examples</a>
+    <a href="https://github.com/luis-gustta/adbtv/tree/main/examples">Examples</a>
     ·
     <a href="https://github.com/luis-gustta/adbtv/issues">Report Bug</a>
     ·
@@ -134,7 +134,7 @@ adb.connect('ip','port')
 adb.launch_app('NETFLIX')
 ```
 
-_More examples about usage can be found under the [examples](https://github.com/luis-gustta/adbtv/examples) folder._
+_More examples about usage can be found under the [examples](https://github.com/luis-gustta/adbtv/tree/main/examples) folder._
 
 
 <!-- CONTRIBUTING -->
